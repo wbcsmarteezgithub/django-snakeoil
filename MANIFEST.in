@@ -1,1 +1,2 @@
 recursive-include snakeoil/templatetags *
+recursive-include snakeoil/migrations *
